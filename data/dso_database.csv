@@ -1,0 +1,8 @@
+Target Name,RA (deg),Dec (deg),Azimuth (deg),Cardinal ,Altitude (deg),Zenith (deg),major_axis ,major_axis_units ,minor_axis,minor_axis_units ,Rise Time,Set  Time,Circumpolar,Visible Now
+NGC6960/C34 (Western Veil),311.40833333,30.70833333,86.92,E,39.39,50.61,--,arcmin,--,arcmin,2026-06-21 17:12:25.795,2026-06-21 11:13:50.352,False,True
+NGC6992/C33 (Eastern Veil),314.07916667,31.74333333,83.99,E,38.36,51.64,--,arcmin,--,arcmin,2026-06-21 17:13:18.537,2026-06-21 11:34:16.419,False,True
+NGC7635     (Bubble nebula),350.20125,61.20166667,35.89,NE,37.07,52.93,41.666668,arcmin,41.666668,arcmin,                    ———,                    ———,True,True
+M31         (Andromeda Galaxy),10.68470833,41.26875,40.22,NE,13.92,76.08,199.53,arcmin,70.79,arcmin,                    ———,                    ———,True,True
+M42         (Orion Nebula),83.8201,-5.3876,337.24,NW,-43.39,133.39,66.0,arcmin,66.0,arcmin,2026-06-21 05:30:01.205,2026-06-21 16:36:56.085,False,False
+M51         (Whirlpool Galaxy),202.469575,47.19525833,282.09,W,60.5,29.5,9.04379,arcmin,7.78399,arcmin,                    ———,                    ———,True,True
+M13         (Hercules Cluster),250.423475,36.46131944,169.95,S,76.36,13.64,33.0,arcmin,33.0,arcmin,2026-06-21 12:04:55.391,2026-06-21 08:14:32.342,False,True

@@ -1,0 +1,10 @@
+name,id
+NGC6960/C34 (Western Veil),NGC6960
+NGC6992/C33 (Eastern Veil),NGC6992
+NGC7635 (Bubble nebula),NGC7635
+M31 (Andromeda Galaxy),M31
+M42 (Orion Nebula),M42
+M51 (Whirlpool Galaxy),M51
+M13 (Hercules Cluster),M13
+M16 (Eagle Nebula),M16
+NGC7635 (Bubble Nenula) NGC7635
